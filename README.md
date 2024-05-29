@@ -84,16 +84,6 @@
 
 - 작성 페이지
 
-
-## 주요 기능
-
-
-## 아키텍처
-
-
-## 와이어프레임
-
-
 ## ERD <br/>
 
 ![image](https://github.com/allone9425/eliteAuction/assets/143374855/f8d5d3fc-79a9-4dac-8c7a-acb503b969b3)
