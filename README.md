@@ -96,8 +96,8 @@
 
 ## ERD <br/>
 
-[
-](https://teamsparta.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F83c75a39-3aba-4ba4-a792-7aefe4b07895%2F7375634c-2a28-470b-853a-075187172f76%2FScreen_Shot_2023-12-27_at_10.54.06_AM.png?table=block&id=10c593ca-8a16-4f0b-9b6f-ad24222b5612&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1310&userId=&cache=v2)https://teamsparta.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F83c75a39-3aba-4ba4-a792-7aefe4b07895%2F7375634c-2a28-470b-853a-075187172f76%2FScreen_Shot_2023-12-27_at_10.54.06_AM.png?table=block&id=10c593ca-8a16-4f0b-9b6f-ad24222b5612&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1310&userId=&cache=v2
+![image](https://github.com/allone9425/eliteAuction/assets/143374855/f8d5d3fc-79a9-4dac-8c7a-acb503b969b3)
+
 
  <br/>
 
